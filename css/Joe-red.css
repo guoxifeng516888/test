@@ -487,7 +487,7 @@ header .btn .iconfont {
     margin-top:.8rem;
     width:7.5rem;
     height:3.7rem;
-    background:url('/template/Joeleo/images/lazybig.png') no-repeat center #ccc;
+    background:url('https://ucc.alicdn.com/avatar/b91e60a6c6864992addc25519f9c509b.png') no-repeat center #ccc;
     background-size:cover;
     display:block;
     position:relative
@@ -674,7 +674,7 @@ header .btn .iconfont {
     border-radius:6px;
     box-shadow:6px 6px 20px #999;
     position:relative;
-    background:url('/template/Joeleo/images/lazy.png') no-repeat center #ccc;
+    background:url('https://ucc.alicdn.com/avatar/ac5a6b25d34748b49bd18f5115cbf6b1.png') no-repeat center #ccc;
     background-size:100% 100%
 }
 /*  热播推荐 */
@@ -684,7 +684,7 @@ header .btn .iconfont {
 .video-small-list .video-item ._item-pic {
     width:3.45rem;
     height:1.9344rem;
-    background:url('/template/Joeleo/images/lazybig.png') no-repeat center #ccc;
+    background:url('https://ucc.alicdn.com/avatar/b91e60a6c6864992addc25519f9c509b.png') no-repeat center #ccc;
     background-size:100% 100%
 }
 .video-small-list .video-item:nth-child(2n-1) {
@@ -740,7 +740,7 @@ header .btn .iconfont {
 }
 .detail .detail-wrap .detail-cover {
     position:absolute;
-    background:url('/template/Joeleo/images/lazy.png')  #ccc;
+    background:url('https://ucc.alicdn.com/avatar/ac5a6b25d34748b49bd18f5115cbf6b1.png')  #ccc;
     top:0;
     left:0;
     right:0;
