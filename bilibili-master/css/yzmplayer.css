@@ -1,6 +1,6 @@
 @font-face {
 	font-family: 'yzmfont';
-	src: url('../css/yzm.ttf');
+	src: url('https://cdn.jsdelivr.net/gh/wuaitao/test@1.13/bilibili-master/css/yzm.ttf');
 }
 
 button[data-balloon] {
